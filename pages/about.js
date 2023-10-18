@@ -34,9 +34,9 @@ Additionally, my experience as a Social Media Manager at TJ Bloc Pilates has equ
 I look forward to the opportunity to discuss how my background and qualifications can be an asset to your team. You can reach me at nicalexbarrero@gmail.com or (647) 974-1163 to schedule an interview.
           </p>
           <p>
-            It's difficult to choose a favourite, but you can search 
-            companies using tags, e.g., <Link href="companies/web">` web`</Link>, <Link href="companies/education">"education"</Link>, 
-            <Link href="companies/software">"software"</Link>, <Link href="companies/game">"game"</Link> and so on. 
+            Its difficult to choose a favourite, but you can search 
+            companies using tags, e.g., <Link href="companies/web">` web`</Link>, <Link href="companies/education">education</Link>, 
+            <Link href="companies/software">software</Link>, <Link href="companies/game">game</Link> and so on. 
             Currently, company <strong>MyEdu</strong> is one of my favourites and shown here:
           </p>
           <br></br>
